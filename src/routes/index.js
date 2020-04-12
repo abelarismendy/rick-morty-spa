@@ -6,7 +6,7 @@ import getHash from '../utils/getHash';
 import resolveRoutes from '../utils/resolveRoutes';
 
 const routes = {
-    '/platzi-spa/': Home,
+    'https://arismendyc.github.io/platzi-spa': Home,
     '/:id': Character,
     '/contact': 'Contact',
 };
