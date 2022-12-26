@@ -4,7 +4,7 @@ Welcome to the Rick and Morty Characters Single Page Application (SPA). This app
 
 ## Technologies Used
 
-This app was built using HTML, CSS, and JavaScript. The data for the characters is provided by an API.
+This app was built using HTML, CSS, and JavaScript. The data for the characters is provided by the [Rick and Morty API](https://rickandmortyapi.com/).
 
 ## Contributing
 
